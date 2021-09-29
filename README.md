@@ -1,4 +1,5 @@
 ## Hi there! I'm Beatriz!
+- 👩🏻‍🎓 Graduated in Computer Science... almost 😆
 - 👩🏻‍💻 I’m currently working with front-end
 - 🤓 I’m currently learning Angular (Intermediate)
 - 💖 I love: To draw, watch anime/series and play games
