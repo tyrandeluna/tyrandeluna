@@ -1,4 +1,4 @@
-## Hi there! I'm Beatriz!
+## 👋🏻 Hi there! I'm Beatriz! 🐸
 - 👩🏻‍🎓 Graduated in Computer Science... almost 😆
 - 👩🏻‍💻 I’m currently working with front-end
 - 🤓 I’m currently learning Angular (Intermediate)
