@@ -21,10 +21,10 @@
 ##
 
 <div><br>
-  <a href="https://www.linkedin.com/in/maria-beatriz-almeida/"> 
+  <a href="https://www.linkedin.com/in/maria-beatriz-almeida/" target="_blank"> 
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
   </a>
-  <a href="https://api.whatsapp.com/send?phone=5588999713491">
+  <a href="https://api.whatsapp.com/send?phone=5588999713491" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </div>
