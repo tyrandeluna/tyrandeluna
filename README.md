@@ -5,7 +5,7 @@
 - 💖 I love: To draw, watch anime/series and play games
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tyrandeluna&show_icons=true&theme=radical&line_height=20&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tyrandeluna&layout=compact&theme=radical&card_width=400)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tyrandeluna&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img height="30" width="40" alt="bea_angular" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
