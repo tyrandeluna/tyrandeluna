@@ -1,7 +1,6 @@
 ## 👋🏻 Hi there! I'm Beatriz! 🐸
 - 👩🏻‍🎓 Graduated in Computer Science
 - 👩🏻‍💻 I’m currently working with front-end
-- 🤓 I’m currently learning Angular (Intermediate), Java (Beginner), React (Beginner)
 - 💖 I love: To draw, watch anime/series and play games
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tyrandeluna&show_icons=true&theme=radical&line_height=20&count_private=true)
